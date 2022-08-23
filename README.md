@@ -19,9 +19,7 @@ notrepaireddamage	= if the car has a damage which is not repaired yet
 postal_code	= location details
 price	= the price to sell the car
 
-
 Exploratory Data Analysis and Feature Scaling.
-
 Data Visualization : For finding outliers and importance of features.
 Correlation Matrix to understand the correlation of features with the price of cars.
 Splitted dataset in two sets:-
